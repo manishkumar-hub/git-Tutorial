@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is first page version 3
+=======
+this is first page version 2
+added 2nd line
+>>>>>>> 133b0a86ac8aeed455c8fccabb3a48b8b62ad4b4
